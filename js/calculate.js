@@ -14,3 +14,6 @@ for (var i = 0; i < listItem.length; i++) {
 
 const sum = itemArray.reduce((partialSum, a) => partialSum + a, 0);
 document.getElementById("total").innerHTML = `Total: $${sum}`;
+
+console.log("==========================");
+console.log(`Total: $${sum}`);
