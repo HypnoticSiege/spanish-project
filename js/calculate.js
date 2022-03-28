@@ -1,3 +1,8 @@
+console.log("Spanish Project - Calculate");
+console.log("==========================");
+console.log("Loaded calculate.js");
+console.log("Made by Luis Quezada");
+
 var fullList = document.getElementById("ul");
 var listItem = fullList.getElementsByTagName("li");
 
