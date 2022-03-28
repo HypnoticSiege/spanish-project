@@ -14,3 +14,4 @@ jobs:
         server: ftp.hypnoticsiege.net
         username: hypnoti1
         password: ${{ secrets.password }}
+        server-dir: /domains/hypnoticsiege.net/public_html/api/spanishproject/
